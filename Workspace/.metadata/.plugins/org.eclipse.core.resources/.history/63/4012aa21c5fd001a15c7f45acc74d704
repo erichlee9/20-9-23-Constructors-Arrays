@@ -1,0 +1,12 @@
+package eg2;
+
+public class EmployeeMain {\
+	
+	public static void main(String[] args) {
+		
+		Employee e=new Employee(100, "Dave", 12212.11);
+		System.out.println(e);
+		System.out.println(e.toString());
+}
+
+}

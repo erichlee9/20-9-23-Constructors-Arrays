@@ -1,0 +1,10 @@
+package eg1;
+
+public class Calci {
+	
+	
+	
+	public Calci(String name) {
+		System.out.println("Hello Constructor "+name);
+	}
+}

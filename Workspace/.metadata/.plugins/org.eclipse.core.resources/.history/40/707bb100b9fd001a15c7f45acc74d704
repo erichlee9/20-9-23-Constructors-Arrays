@@ -1,0 +1,10 @@
+package eg1;
+
+public class CaliMain {
+
+	public static void main(String[] args) {
+		
+		Calci c=new Calci("JAVA");
+		
+	}
+}
